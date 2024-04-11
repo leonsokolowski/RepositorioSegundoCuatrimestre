@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 1\\",
+  "WorkspaceRootPath": "E:\\LE\u00D3N\\FACULTAD\\Segundo Cuatri\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D58138DA-CA3F-4730-95FB-7C3EE5969211}|Ejercicio N\u00B01\\Ejercicio N\u00B01.csproj|c:\\personales\\leon\\facultad\\segundo cuatrimestre\\programaci\u00F3n y laboratorio 2\\repositoriosegundocuatrimestre\\ejercicios c#\\ejercicios clase 1\\ejercicio n\u00B01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D58138DA-CA3F-4730-95FB-7C3EE5969211}|Ejercicio N\u00B01\\Ejercicio N\u00B01.csproj|e:\\le\u00F3n\\facultad\\segundo cuatri\\programaci\u00F3n y laboratorio 2\\repositoriosegundocuatrimestre\\ejercicios c#\\ejercicios clase 1\\ejercicio n\u00B01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D58138DA-CA3F-4730-95FB-7C3EE5969211}|Ejercicio N\u00B01\\Ejercicio N\u00B01.csproj|solutionrelative:ejercicio n\u00B01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 1\\Ejercicio N\u00B01\\Program.cs",
+              "DocumentMoniker": "E:\\LE\u00D3N\\FACULTAD\\Segundo Cuatri\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 1\\Ejercicio N\u00B01\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicio N\u00B01\\Program.cs",
-              "ToolTip": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 1\\Ejercicio N\u00B01\\Program.cs",
+              "ToolTip": "E:\\LE\u00D3N\\FACULTAD\\Segundo Cuatri\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 1\\Ejercicio N\u00B01\\Program.cs",
               "RelativeToolTip": "Ejercicio N\u00B01\\Program.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwDUAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-10T23:35:45.621Z",
               "EditorCaption": ""

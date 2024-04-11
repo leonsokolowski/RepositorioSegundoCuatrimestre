@@ -1,0 +1,2 @@
+E:\LEÓN\FACULTAD\Segundo Cuatri\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 2\Ejercicio N°5\obj\Debug\Ejercicio N°5.csproj.AssemblyReference.cache
+E:\LEÓN\FACULTAD\Segundo Cuatri\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 2\Ejercicio N°5\obj\Debug\Ejercicio N°5.csproj.CoreCompileInputs.cache
