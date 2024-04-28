@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{52D02D03-9DF6-4E98-AB6D-B899A7ECAD95}</ProjectGuid>
+    <ProjectGuid>{04657F8A-B631-4E5F-965B-9A3307234137}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Ejercicios_Clase_3</RootNamespace>
-    <AssemblyName>Ejercicios Clase 3</AssemblyName>
+    <RootNamespace>Ejercicio_N_3</RootNamespace>
+    <AssemblyName>Ejercicio N°3</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Conversor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
