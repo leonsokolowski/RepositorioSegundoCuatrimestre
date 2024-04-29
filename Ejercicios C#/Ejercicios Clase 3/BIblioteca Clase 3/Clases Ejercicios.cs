@@ -82,10 +82,37 @@ namespace Biblioteca_Clase_3
             
             if (this.fechaNacimiento > fechaHoy)
             {
-
+                Console.WriteLine("La fecha de nacimiento ingresada no es valida porque todavía no ocurrio");
+                return -1;
+            }
+            else
+            {
+                int edad = fechaHoy.Year - this.fechaNacimiento.Year;
+                if (fechaHoy.Month > fechaNacimiento.Month)
+                {
+                    edad--;
+                }
+                return edad;
             }
         }
-        
+
+        private string CalcularMayoriaEdad()
+        {
+            if (CalcularEdad() > 18)
+            {
+                return "Es mayor de edad";
+            }
+            else
+            {
+                return "Es menor de edad";
+            }
+        }
+
+        public void MostrarDatos()
+        {
+            string mensaje = $"Nombre: {this.nombre}\nEdad: {CalcularEdad()}\nFecha de nacimiento: {this.fechaNacimiento}\nDNI: {this.dni}\n{CalcularMayoriaEdad()}";
+            Console.WriteLine(mensaje);   
+        }
         #endregion
     }
 
