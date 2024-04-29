@@ -66,15 +66,26 @@ namespace Biblioteca_Clase_3
         private int dni;
         #endregion
 
-        #region Metodos
+        #region Constructor
         public Persona(string nombre, DateTime fechaNacimiento, int dni)
         {
             this.nombre = nombre;
             this.fechaNacimiento = fechaNacimiento;
             this.dni = dni;
         }
+        #endregion
 
+        #region Metodos
+        private int CalcularEdad()
+        {
+            DateTime fechaHoy = DateTime.Today;
+            
+            if (this.fechaNacimiento > fechaHoy)
+            {
 
+            }
+        }
+        
         #endregion
     }
 

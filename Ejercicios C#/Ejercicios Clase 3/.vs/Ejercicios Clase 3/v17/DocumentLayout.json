@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\LE\u00D3N\\FACULTAD\\Segundo Cuatri\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 3\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9E68EE-0F85-42B0-A14A-203FDBCC183C}|BIblioteca Clase 3\\Biblioteca Clase 3.csproj|c:\\personales\\leon\\facultad\\segundo cuatrimestre\\programaci\u00F3n y laboratorio 2\\repositoriosegundocuatrimestre\\ejercicios c#\\ejercicios clase 3\\biblioteca clase 3\\clases ejercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9E68EE-0F85-42B0-A14A-203FDBCC183C}|BIblioteca Clase 3\\Biblioteca Clase 3.csproj|solutionrelative:biblioteca clase 3\\clases ejercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Clases Ejercicios.cs",
+              "DocumentMoniker": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 3\\BIblioteca Clase 3\\Clases Ejercicios.cs",
+              "RelativeDocumentMoniker": "BIblioteca Clase 3\\Clases Ejercicios.cs",
+              "ToolTip": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 3\\BIblioteca Clase 3\\Clases Ejercicios.cs",
+              "RelativeToolTip": "BIblioteca Clase 3\\Clases Ejercicios.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T17:53:09.736Z",
+              "EditorCaption": ""
             }
           ]
         }
