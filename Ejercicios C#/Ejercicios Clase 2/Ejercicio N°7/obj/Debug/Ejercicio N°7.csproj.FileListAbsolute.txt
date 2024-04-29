@@ -1,0 +1,7 @@
+E:\LEÓN\FACULTAD\Segundo Cuatri\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 2\Ejercicio N°7\bin\Debug\Ejercicio N°7.exe.config
+E:\LEÓN\FACULTAD\Segundo Cuatri\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 2\Ejercicio N°7\bin\Debug\Ejercicio N°7.exe
+E:\LEÓN\FACULTAD\Segundo Cuatri\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 2\Ejercicio N°7\bin\Debug\Ejercicio N°7.pdb
+E:\LEÓN\FACULTAD\Segundo Cuatri\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 2\Ejercicio N°7\obj\Debug\Ejercicio N°7.csproj.AssemblyReference.cache
+E:\LEÓN\FACULTAD\Segundo Cuatri\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 2\Ejercicio N°7\obj\Debug\Ejercicio N°7.csproj.CoreCompileInputs.cache
+E:\LEÓN\FACULTAD\Segundo Cuatri\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 2\Ejercicio N°7\obj\Debug\Ejercicio N°7.exe
+E:\LEÓN\FACULTAD\Segundo Cuatri\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 2\Ejercicio N°7\obj\Debug\Ejercicio N°7.pdb

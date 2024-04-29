@@ -25,11 +25,22 @@ namespace Ejercicio_N_3
             }
             return numeroBinario;
         }
-        /*
-        public static int ConvertirBinarioADecimal (int numeroEntero)
+        
+        public static int ConvertirBinarioADecimal (int numeroBinario)
         {
+            int numeroDecimal = 0;
+            int potencia = 0;
 
+            while (numeroBinario != 0)
+            {
+                int digito = numeroBinario % 10;
+                numeroDecimal += digito * (int)Math.Pow(2, potencia);
+                numeroBinario /= 10;
+                potencia ++;
+                
+            }
+            return numeroDecimal;
         }
-        */
+        
     }
 }
