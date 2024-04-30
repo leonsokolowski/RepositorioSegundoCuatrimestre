@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B28F868F-A6A8-4175-8116-1661A8844908}|Ejercicio N\u00B01\\Ejercicio N\u00B01.csproj|c:\\personales\\leon\\facultad\\segundo cuatrimestre\\programaci\u00F3n y laboratorio 2\\repositoriosegundocuatrimestre\\ejercicios c#\\ejercicios clase 6\\ejercicio n\u00B01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28F868F-A6A8-4175-8116-1661A8844908}|Ejercicio N\u00B01\\Ejercicio N\u00B01.csproj|solutionrelative:ejercicio n\u00B01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D51004-D620-4FA4-B980-ECC9F57277B0}|BibliotecaEjercicio1\\BibliotecaEjercicio1.csproj|c:\\personales\\leon\\facultad\\segundo cuatrimestre\\programaci\u00F3n y laboratorio 2\\repositoriosegundocuatrimestre\\ejercicios c#\\ejercicios clase 6\\bibliotecaejercicio1\\ciclomotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D51004-D620-4FA4-B980-ECC9F57277B0}|BibliotecaEjercicio1\\BibliotecaEjercicio1.csproj|solutionrelative:bibliotecaejercicio1\\ciclomotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D51004-D620-4FA4-B980-ECC9F57277B0}|BibliotecaEjercicio1\\BibliotecaEjercicio1.csproj|c:\\personales\\leon\\facultad\\segundo cuatrimestre\\programaci\u00F3n y laboratorio 2\\repositoriosegundocuatrimestre\\ejercicios c#\\ejercicios clase 6\\bibliotecaejercicio1\\automovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D51004-D620-4FA4-B980-ECC9F57277B0}|BibliotecaEjercicio1\\BibliotecaEjercicio1.csproj|solutionrelative:bibliotecaejercicio1\\automovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D51004-D620-4FA4-B980-ECC9F57277B0}|BibliotecaEjercicio1\\BibliotecaEjercicio1.csproj|c:\\personales\\leon\\facultad\\segundo cuatrimestre\\programaci\u00F3n y laboratorio 2\\repositoriosegundocuatrimestre\\ejercicios c#\\ejercicios clase 6\\bibliotecaejercicio1\\furgon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D51004-D620-4FA4-B980-ECC9F57277B0}|BibliotecaEjercicio1\\BibliotecaEjercicio1.csproj|solutionrelative:bibliotecaejercicio1\\furgon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D51004-D620-4FA4-B980-ECC9F57277B0}|BibliotecaEjercicio1\\BibliotecaEjercicio1.csproj|c:\\personales\\leon\\facultad\\segundo cuatrimestre\\programaci\u00F3n y laboratorio 2\\repositoriosegundocuatrimestre\\ejercicios c#\\ejercicios clase 6\\bibliotecaejercicio1\\vehiculoterrestre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D51004-D620-4FA4-B980-ECC9F57277B0}|BibliotecaEjercicio1\\BibliotecaEjercicio1.csproj|solutionrelative:bibliotecaejercicio1\\vehiculoterrestre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ciclomotor.cs",
+              "DocumentMoniker": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\BibliotecaEjercicio1\\Ciclomotor.cs",
+              "RelativeDocumentMoniker": "BibliotecaEjercicio1\\Ciclomotor.cs",
+              "ToolTip": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\BibliotecaEjercicio1\\Ciclomotor.cs",
+              "RelativeToolTip": "BibliotecaEjercicio1\\Ciclomotor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T04:17:23.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Automovil.cs",
+              "DocumentMoniker": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\BibliotecaEjercicio1\\Automovil.cs",
+              "RelativeDocumentMoniker": "BibliotecaEjercicio1\\Automovil.cs",
+              "ToolTip": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\BibliotecaEjercicio1\\Automovil.cs",
+              "RelativeToolTip": "BibliotecaEjercicio1\\Automovil.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T04:12:31.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Furgon.cs",
+              "DocumentMoniker": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\BibliotecaEjercicio1\\Furgon.cs",
+              "RelativeDocumentMoniker": "BibliotecaEjercicio1\\Furgon.cs",
+              "ToolTip": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\BibliotecaEjercicio1\\Furgon.cs",
+              "RelativeToolTip": "BibliotecaEjercicio1\\Furgon.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T02:46:11.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VehiculoTerrestre.cs",
+              "DocumentMoniker": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\BibliotecaEjercicio1\\VehiculoTerrestre.cs",
+              "RelativeDocumentMoniker": "BibliotecaEjercicio1\\VehiculoTerrestre.cs",
+              "ToolTip": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\BibliotecaEjercicio1\\VehiculoTerrestre.cs",
+              "RelativeToolTip": "BibliotecaEjercicio1\\VehiculoTerrestre.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T00:04:16.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\Ejercicio N\u00B01\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio N\u00B01\\Program.cs",
+              "ToolTip": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\Ejercicio N\u00B01\\Program.cs",
+              "RelativeToolTip": "Ejercicio N\u00B01\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwBUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T23:54:31.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
