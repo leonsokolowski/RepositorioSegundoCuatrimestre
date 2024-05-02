@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace Biblioteca_Clase_3
 {
-    //----------------------------------------------------------------------------------------------------------------
-    //Ejercicio 1
+    //EJERCICIO 1
     public class Cuenta
     {
         #region Atributos
@@ -15,13 +14,15 @@ namespace Biblioteca_Clase_3
         private decimal cantidad;
         #endregion
 
-        #region Metodos
+        #region Constructor
         public Cuenta(string titular, decimal cantidad)
         {
             this.titular = titular;
             this.cantidad = cantidad;
         }
+        #endregion
 
+        #region Metodos
         public string DevolverTitular()
         {
             return this.titular;
@@ -56,8 +57,8 @@ namespace Biblioteca_Clase_3
         }
         #endregion
     }
-    //----------------------------------------------------------------------------------------------------------------
-    //Ejercicio 2
+
+    //EJERCICIO 2
     public class Persona
     {
         #region Atributos
@@ -79,7 +80,7 @@ namespace Biblioteca_Clase_3
         private int CalcularEdad()
         {
             DateTime fechaHoy = DateTime.Today;
-            
+
             if (this.fechaNacimiento > fechaHoy)
             {
                 Console.WriteLine("La fecha de nacimiento ingresada no es valida porque todavía no ocurrio");
@@ -111,9 +112,79 @@ namespace Biblioteca_Clase_3
         public void MostrarDatos()
         {
             string mensaje = $"Nombre: {this.nombre}\nEdad: {CalcularEdad()}\nFecha de nacimiento: {this.fechaNacimiento}\nDNI: {this.dni}\n{CalcularMayoriaEdad()}";
-            Console.WriteLine(mensaje);   
+            Console.WriteLine(mensaje);
         }
         #endregion
+    }
+
+    //EJERCICIO 3
+
+    public class Estudiante
+    {
+        #region Atributos
+        protected string apellido;
+        protected string nombre;
+        protected string legajo;
+        protected int notaPrimerParcial;
+        protected int notaSegundoParcial;
+        protected static Random random = new Random();
+        #endregion
+
+        #region Constructor
+        public Estudiante(string apellido, string nombre, string legajo)
+        {
+            this.apellido = apellido;
+            this.nombre = nombre;
+            this.legajo = legajo;
+        }
+        #endregion 
+        
+        #region Metodos
+        public void SetNotaPrimerParcial(int notaPrimerParcial)
+        {
+            this.notaPrimerParcial = notaPrimerParcial;
+        }
+
+        public void SetNotaSegundoParcial(int notaSegundoParcial)
+        {
+            this.notaSegundoParcial = notaSegundoParcial;
+        }
+
+        private double CalcularPromedio()
+        {
+            return (this.notaPrimerParcial + this.notaSegundoParcial) / 2;
+        }
+
+        public int CalcularNotaFinal()
+        {
+            if ((this.notaPrimerParcial >= 4 && this.notaPrimerParcial <= 10) && (this.notaSegundoParcial >= 4 && this.notaSegundoParcial <= 10))
+            {
+                return random.Next(6, 10);
+            }
+            return -1;
+        }
+
+        public void Mostrar()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine($"Nombre: {this.nombre}");
+            sb.AppendLine($"Apellido: {this.apellido}");
+            sb.AppendLine($"Legajo: {this.legajo}");
+            sb.AppendLine($"Nota del primer parcial: {this.notaPrimerParcial}");
+            sb.AppendLine($"Nota del segundo parcial: {this.notaSegundoParcial}");
+            sb.AppendLine($"Promedio: {CalcularPromedio()}");
+            if (CalcularNotaFinal() != -1)
+            {
+                sb.AppendLine($"Nota del Final: {CalcularNotaFinal()}");
+            }
+            else
+            {
+                sb.AppendLine("Alumno desaprobado");
+            }
+
+            Console.WriteLine(sb.ToString());
+        }
+        #endregion 
     }
 
 }
