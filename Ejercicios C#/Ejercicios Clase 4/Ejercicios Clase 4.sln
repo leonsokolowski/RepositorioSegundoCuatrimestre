@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioN1", "EjercicioN1\EjercicioN1.csproj", "{083BD81B-0AAC-4AFA-94A0-09ACCC91C887}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio N°1", "EjercicioN1\Ejercicio N°1.csproj", "{083BD81B-0AAC-4AFA-94A0-09ACCC91C887}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca Clase 4", "Biblioteca Clase 4\Biblioteca Clase 4.csproj", "{8F891F29-AA9C-4A4C-BF52-BF20C7C27FF1}"
 EndProject
