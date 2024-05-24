@@ -33,6 +33,7 @@ namespace Ejercicio_N_2
             double numeroCubico = (double)Math.Pow(numeroIngresado, 3);
 
             Console.WriteLine("El cuadrado de {0:#,###.00} es {1:#,###.00} y el cubo es {2:#,###.00}", numeroIngresado, numeroCuadrado, numeroCubico);
+            //Console.WriteLine($"El cuadrado de {numeroIngresado:#,###.00} es {numeroCuadrado:#,###.00} y el cubo es {numeroCubico:#,###.00}");
             Console.Write("\nOprima cualquier boton para concluir");
 
             Console.ReadKey();

@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\",
+  "WorkspaceRootPath": "E:\\LE\u00D3N\\FACULTAD\\Segundo Cuatri\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B28F868F-A6A8-4175-8116-1661A8844908}|Ejercicio N\u00B01\\Ejercicio N\u00B01.csproj|c:\\personales\\leon\\facultad\\segundo cuatrimestre\\programaci\u00F3n y laboratorio 2\\repositoriosegundocuatrimestre\\ejercicios c#\\ejercicios clase 6\\ejercicio n\u00B01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B28F868F-A6A8-4175-8116-1661A8844908}|Ejercicio N\u00B01\\Ejercicio N\u00B01.csproj|solutionrelative:ejercicio n\u00B01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25D51004-D620-4FA4-B980-ECC9F57277B0}|BibliotecaEjercicio1\\BibliotecaEjercicio1.csproj|E:\\LE\u00D3N\\FACULTAD\\Segundo Cuatri\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\bibliotecaejercicio1\\vehiculoterrestre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D51004-D620-4FA4-B980-ECC9F57277B0}|BibliotecaEjercicio1\\BibliotecaEjercicio1.csproj|solutionrelative:bibliotecaejercicio1\\vehiculoterrestre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25D51004-D620-4FA4-B980-ECC9F57277B0}|BibliotecaEjercicio1\\BibliotecaEjercicio1.csproj|c:\\personales\\leon\\facultad\\segundo cuatrimestre\\programaci\u00F3n y laboratorio 2\\repositoriosegundocuatrimestre\\ejercicios c#\\ejercicios clase 6\\bibliotecaejercicio1\\ciclomotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25D51004-D620-4FA4-B980-ECC9F57277B0}|BibliotecaEjercicio1\\BibliotecaEjercicio1.csproj|solutionrelative:bibliotecaejercicio1\\ciclomotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25D51004-D620-4FA4-B980-ECC9F57277B0}|BibliotecaEjercicio1\\BibliotecaEjercicio1.csproj|c:\\personales\\leon\\facultad\\segundo cuatrimestre\\programaci\u00F3n y laboratorio 2\\repositoriosegundocuatrimestre\\ejercicios c#\\ejercicios clase 6\\bibliotecaejercicio1\\automovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25D51004-D620-4FA4-B980-ECC9F57277B0}|BibliotecaEjercicio1\\BibliotecaEjercicio1.csproj|solutionrelative:bibliotecaejercicio1\\automovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25D51004-D620-4FA4-B980-ECC9F57277B0}|BibliotecaEjercicio1\\BibliotecaEjercicio1.csproj|c:\\personales\\leon\\facultad\\segundo cuatrimestre\\programaci\u00F3n y laboratorio 2\\repositoriosegundocuatrimestre\\ejercicios c#\\ejercicios clase 6\\bibliotecaejercicio1\\furgon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25D51004-D620-4FA4-B980-ECC9F57277B0}|BibliotecaEjercicio1\\BibliotecaEjercicio1.csproj|E:\\LE\u00D3N\\FACULTAD\\Segundo Cuatri\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\bibliotecaejercicio1\\furgon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25D51004-D620-4FA4-B980-ECC9F57277B0}|BibliotecaEjercicio1\\BibliotecaEjercicio1.csproj|solutionrelative:bibliotecaejercicio1\\furgon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25D51004-D620-4FA4-B980-ECC9F57277B0}|BibliotecaEjercicio1\\BibliotecaEjercicio1.csproj|c:\\personales\\leon\\facultad\\segundo cuatrimestre\\programaci\u00F3n y laboratorio 2\\repositoriosegundocuatrimestre\\ejercicios c#\\ejercicios clase 6\\bibliotecaejercicio1\\vehiculoterrestre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25D51004-D620-4FA4-B980-ECC9F57277B0}|BibliotecaEjercicio1\\BibliotecaEjercicio1.csproj|solutionrelative:bibliotecaejercicio1\\vehiculoterrestre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25D51004-D620-4FA4-B980-ECC9F57277B0}|BibliotecaEjercicio1\\BibliotecaEjercicio1.csproj|E:\\LE\u00D3N\\FACULTAD\\Segundo Cuatri\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\bibliotecaejercicio1\\automovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D51004-D620-4FA4-B980-ECC9F57277B0}|BibliotecaEjercicio1\\BibliotecaEjercicio1.csproj|solutionrelative:bibliotecaejercicio1\\automovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28F868F-A6A8-4175-8116-1661A8844908}|Ejercicio N\u00B01\\Ejercicio N\u00B01.csproj|e:\\le\u00F3n\\facultad\\segundo cuatri\\programaci\u00F3n y laboratorio 2\\repositoriosegundocuatrimestre\\ejercicios c#\\ejercicios clase 6\\ejercicio n\u00B01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28F868F-A6A8-4175-8116-1661A8844908}|Ejercicio N\u00B01\\Ejercicio N\u00B01.csproj|solutionrelative:ejercicio n\u00B01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D51004-D620-4FA4-B980-ECC9F57277B0}|BibliotecaEjercicio1\\BibliotecaEjercicio1.csproj|E:\\LE\u00D3N\\FACULTAD\\Segundo Cuatri\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\bibliotecaejercicio1\\ciclomotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D51004-D620-4FA4-B980-ECC9F57277B0}|BibliotecaEjercicio1\\BibliotecaEjercicio1.csproj|solutionrelative:bibliotecaejercicio1\\ciclomotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,64 +33,67 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Ciclomotor.cs",
-              "DocumentMoniker": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\BibliotecaEjercicio1\\Ciclomotor.cs",
+              "DocumentMoniker": "E:\\LE\u00D3N\\FACULTAD\\Segundo Cuatri\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\BibliotecaEjercicio1\\Ciclomotor.cs",
               "RelativeDocumentMoniker": "BibliotecaEjercicio1\\Ciclomotor.cs",
-              "ToolTip": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\BibliotecaEjercicio1\\Ciclomotor.cs",
+              "ToolTip": "E:\\LE\u00D3N\\FACULTAD\\Segundo Cuatri\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\BibliotecaEjercicio1\\Ciclomotor.cs",
               "RelativeToolTip": "BibliotecaEjercicio1\\Ciclomotor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T04:17:23.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T04:17:23.219Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Automovil.cs",
-              "DocumentMoniker": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\BibliotecaEjercicio1\\Automovil.cs",
+              "DocumentMoniker": "E:\\LE\u00D3N\\FACULTAD\\Segundo Cuatri\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\BibliotecaEjercicio1\\Automovil.cs",
               "RelativeDocumentMoniker": "BibliotecaEjercicio1\\Automovil.cs",
-              "ToolTip": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\BibliotecaEjercicio1\\Automovil.cs",
+              "ToolTip": "E:\\LE\u00D3N\\FACULTAD\\Segundo Cuatri\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\BibliotecaEjercicio1\\Automovil.cs",
               "RelativeToolTip": "BibliotecaEjercicio1\\Automovil.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-30T04:12:31.814Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Furgon.cs",
-              "DocumentMoniker": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\BibliotecaEjercicio1\\Furgon.cs",
+              "DocumentMoniker": "E:\\LE\u00D3N\\FACULTAD\\Segundo Cuatri\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\BibliotecaEjercicio1\\Furgon.cs",
               "RelativeDocumentMoniker": "BibliotecaEjercicio1\\Furgon.cs",
-              "ToolTip": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\BibliotecaEjercicio1\\Furgon.cs",
+              "ToolTip": "E:\\LE\u00D3N\\FACULTAD\\Segundo Cuatri\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\BibliotecaEjercicio1\\Furgon.cs",
               "RelativeToolTip": "BibliotecaEjercicio1\\Furgon.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAABDAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-30T02:46:11.932Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "VehiculoTerrestre.cs",
-              "DocumentMoniker": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\BibliotecaEjercicio1\\VehiculoTerrestre.cs",
+              "DocumentMoniker": "E:\\LE\u00D3N\\FACULTAD\\Segundo Cuatri\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\BibliotecaEjercicio1\\VehiculoTerrestre.cs",
               "RelativeDocumentMoniker": "BibliotecaEjercicio1\\VehiculoTerrestre.cs",
-              "ToolTip": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\BibliotecaEjercicio1\\VehiculoTerrestre.cs",
+              "ToolTip": "E:\\LE\u00D3N\\FACULTAD\\Segundo Cuatri\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\BibliotecaEjercicio1\\VehiculoTerrestre.cs",
               "RelativeToolTip": "BibliotecaEjercicio1\\VehiculoTerrestre.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAByAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-30T00:04:16.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\Ejercicio N\u00B01\\Program.cs",
+              "DocumentMoniker": "E:\\LE\u00D3N\\FACULTAD\\Segundo Cuatri\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\Ejercicio N\u00B01\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicio N\u00B01\\Program.cs",
-              "ToolTip": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\Ejercicio N\u00B01\\Program.cs",
+              "ToolTip": "E:\\LE\u00D3N\\FACULTAD\\Segundo Cuatri\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 6\\Ejercicio N\u00B01\\Program.cs",
               "RelativeToolTip": "Ejercicio N\u00B01\\Program.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAQwBUAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
