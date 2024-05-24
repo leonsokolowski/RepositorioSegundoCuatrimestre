@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\LE\u00D3N\\FACULTAD\\Segundo Cuatri\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 4\\",
+  "WorkspaceRootPath": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{083BD81B-0AAC-4AFA-94A0-09ACCC91C887}|EjercicioN1\\EjercicioN1.csproj|e:\\le\u00F3n\\facultad\\segundo cuatri\\programaci\u00F3n y laboratorio 2\\repositoriosegundocuatrimestre\\ejercicios c#\\ejercicios clase 4\\ejercicion1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{083BD81B-0AAC-4AFA-94A0-09ACCC91C887}|EjercicioN1\\EjercicioN1.csproj|solutionrelative:ejercicion1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6115868-9A3A-4DEC-9DF5-24489E246556}|Ejercicio N\u00B02\\Ejercicio N\u00B02.csproj|c:\\personales\\leon\\facultad\\segundo cuatrimestre\\programaci\u00F3n y laboratorio 2\\repositoriosegundocuatrimestre\\ejercicios c#\\ejercicios clase 4\\ejercicio n\u00B02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6115868-9A3A-4DEC-9DF5-24489E246556}|Ejercicio N\u00B02\\Ejercicio N\u00B02.csproj|solutionrelative:ejercicio n\u00B02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F891F29-AA9C-4A4C-BF52-BF20C7C27FF1}|Biblioteca Clase 4\\Biblioteca Clase 4.csproj|e:\\le\u00F3n\\facultad\\segundo cuatri\\programaci\u00F3n y laboratorio 2\\repositoriosegundocuatrimestre\\ejercicios c#\\ejercicios clase 4\\biblioteca clase 4\\sumador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F891F29-AA9C-4A4C-BF52-BF20C7C27FF1}|Biblioteca Clase 4\\Biblioteca Clase 4.csproj|solutionrelative:biblioteca clase 4\\sumador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF83CF3E-63E9-4E60-BAB1-D83FD76A5BDB}|BibliotecaDeClases\\BibliotecaDeClases.csproj|c:\\personales\\leon\\facultad\\segundo cuatrimestre\\programaci\u00F3n y laboratorio 2\\repositoriosegundocuatrimestre\\ejercicios c#\\ejercicios clase 4\\bibliotecadeclases\\conversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF83CF3E-63E9-4E60-BAB1-D83FD76A5BDB}|BibliotecaDeClases\\BibliotecaDeClases.csproj|solutionrelative:bibliotecadeclases\\conversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034635EB-B7DD-4B05-AE54-5C7C50AB672A}|Ejercicio N\u00B01\\Ejercicio N\u00B01.csproj|c:\\personales\\leon\\facultad\\segundo cuatrimestre\\programaci\u00F3n y laboratorio 2\\repositoriosegundocuatrimestre\\ejercicios c#\\ejercicios clase 4\\ejercicio n\u00B01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034635EB-B7DD-4B05-AE54-5C7C50AB672A}|Ejercicio N\u00B01\\Ejercicio N\u00B01.csproj|solutionrelative:ejercicio n\u00B01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,31 +28,39 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\LE\u00D3N\\FACULTAD\\Segundo Cuatri\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 4\\EjercicioN1\\Program.cs",
-              "RelativeDocumentMoniker": "EjercicioN1\\Program.cs",
-              "ToolTip": "E:\\LE\u00D3N\\FACULTAD\\Segundo Cuatri\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 4\\EjercicioN1\\Program.cs",
-              "RelativeToolTip": "EjercicioN1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "DocumentMoniker": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 4\\Ejercicio N\u00B02\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio N\u00B02\\Program.cs",
+              "ToolTip": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 4\\Ejercicio N\u00B02\\Program.cs",
+              "RelativeToolTip": "Ejercicio N\u00B02\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T01:00:24.924Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-05-21T19:36:12.618Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Sumador.cs",
-              "DocumentMoniker": "E:\\LE\u00D3N\\FACULTAD\\Segundo Cuatri\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 4\\Biblioteca Clase 4\\Sumador.cs",
-              "RelativeDocumentMoniker": "Biblioteca Clase 4\\Sumador.cs",
-              "ToolTip": "E:\\LE\u00D3N\\FACULTAD\\Segundo Cuatri\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 4\\Biblioteca Clase 4\\Sumador.cs",
-              "RelativeToolTip": "Biblioteca Clase 4\\Sumador.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAASAAAA",
+              "Title": "Conversor.cs",
+              "DocumentMoniker": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 4\\BibliotecaDeClases\\Conversor.cs",
+              "RelativeDocumentMoniker": "BibliotecaDeClases\\Conversor.cs",
+              "ToolTip": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 4\\BibliotecaDeClases\\Conversor.cs",
+              "RelativeToolTip": "BibliotecaDeClases\\Conversor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T01:05:06.711Z",
+              "WhenOpened": "2024-05-21T19:33:02.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 4\\Ejercicio N\u00B01\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio N\u00B01\\Program.cs",
+              "ToolTip": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 4\\Ejercicio N\u00B01\\Program.cs",
+              "RelativeToolTip": "Ejercicio N\u00B01\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:54:12.797Z",
               "EditorCaption": ""
             }
           ]

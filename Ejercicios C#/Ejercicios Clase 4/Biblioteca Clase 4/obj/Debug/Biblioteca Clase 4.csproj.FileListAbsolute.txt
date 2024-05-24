@@ -1,6 +1,0 @@
-E:\LEÓN\FACULTAD\Segundo Cuatri\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 4\Biblioteca Clase 4\bin\Debug\Biblioteca Clase 4.dll
-E:\LEÓN\FACULTAD\Segundo Cuatri\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 4\Biblioteca Clase 4\bin\Debug\Biblioteca Clase 4.pdb
-E:\LEÓN\FACULTAD\Segundo Cuatri\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 4\Biblioteca Clase 4\obj\Debug\Biblioteca Clase 4.csproj.AssemblyReference.cache
-E:\LEÓN\FACULTAD\Segundo Cuatri\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 4\Biblioteca Clase 4\obj\Debug\Biblioteca Clase 4.csproj.CoreCompileInputs.cache
-E:\LEÓN\FACULTAD\Segundo Cuatri\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 4\Biblioteca Clase 4\obj\Debug\Biblioteca Clase 4.dll
-E:\LEÓN\FACULTAD\Segundo Cuatri\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 4\Biblioteca Clase 4\obj\Debug\Biblioteca Clase 4.pdb
