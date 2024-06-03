@@ -1,0 +1,10 @@
+C:\PERSONALES\LEON\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 4\Ejercicio N°2\obj\Debug\Ejercicio N°2.csproj.AssemblyReference.cache
+C:\PERSONALES\LEON\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 4\Ejercicio N°2\obj\Debug\Ejercicio N°2.csproj.CoreCompileInputs.cache
+C:\PERSONALES\LEON\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 4\Ejercicio N°2\bin\Debug\Ejercicio N°2.exe.config
+C:\PERSONALES\LEON\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 4\Ejercicio N°2\bin\Debug\Ejercicio N°2.exe
+C:\PERSONALES\LEON\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 4\Ejercicio N°2\bin\Debug\Ejercicio N°2.pdb
+C:\PERSONALES\LEON\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 4\Ejercicio N°2\bin\Debug\BibliotecaDeClases.dll
+C:\PERSONALES\LEON\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 4\Ejercicio N°2\bin\Debug\BibliotecaDeClases.pdb
+C:\PERSONALES\LEON\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 4\Ejercicio N°2\obj\Debug\Ejercici.312DEA80.Up2Date
+C:\PERSONALES\LEON\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 4\Ejercicio N°2\obj\Debug\Ejercicio N°2.exe
+C:\PERSONALES\LEON\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 4\Ejercicio N°2\obj\Debug\Ejercicio N°2.pdb

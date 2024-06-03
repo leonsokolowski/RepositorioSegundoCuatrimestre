@@ -1,0 +1,39 @@
+
+Capacidad del shopping:5
+Total de importadores: $324900
+Total de exportadores: $44295
+Total: $369195
+************************
+Listado de Comercios
+************************
+Nombre: Electrónica 80
+Comerciante: Domingo, Caballo
+Cantidad de empleados: 37
+Precio Alquiler: 15200
+Tipo: Tecnologico
+
+Nombre: Granola S.A.
+Comerciante: Alberto, Samudio
+Cantidad de empleados: 33
+Precio Alquiler: 23900
+País de Origen: UnionEuropea
+
+Nombre: Matarife
+Comerciante: Joe, Molleja
+Cantidad de empleados: 94
+Precio Alquiler: 29095
+Tipo: Rural
+
+Nombre: Matarife
+Comerciante: Alberto, Samudio
+Cantidad de empleados: 66
+Precio Alquiler: 203000
+País de Origen: Taiwan
+
+Nombre: Matarife
+Comerciante: Domingo, Caballo
+Cantidad de empleados: 22
+Precio Alquiler: 98000
+País de Origen: China
+
+

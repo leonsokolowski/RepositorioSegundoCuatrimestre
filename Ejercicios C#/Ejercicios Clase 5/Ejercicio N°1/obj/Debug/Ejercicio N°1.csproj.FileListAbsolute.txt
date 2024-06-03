@@ -5,3 +5,10 @@ E:\LEÓN\FACULTAD\Segundo Cuatri\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegund
 E:\LEÓN\FACULTAD\Segundo Cuatri\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase N 5\Ejercicio N°1\obj\Debug\Ejercicio N°1.csproj.CoreCompileInputs.cache
 E:\LEÓN\FACULTAD\Segundo Cuatri\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase N 5\Ejercicio N°1\obj\Debug\Ejercicio N°1.exe
 E:\LEÓN\FACULTAD\Segundo Cuatri\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase N 5\Ejercicio N°1\obj\Debug\Ejercicio N°1.pdb
+C:\PERSONALES\LEON\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 5\Ejercicio N°1\bin\Debug\Ejercicio N°1.exe.config
+C:\PERSONALES\LEON\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 5\Ejercicio N°1\bin\Debug\Ejercicio N°1.exe
+C:\PERSONALES\LEON\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 5\Ejercicio N°1\bin\Debug\Ejercicio N°1.pdb
+C:\PERSONALES\LEON\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 5\Ejercicio N°1\obj\Debug\Ejercicio N°1.csproj.AssemblyReference.cache
+C:\PERSONALES\LEON\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 5\Ejercicio N°1\obj\Debug\Ejercicio N°1.csproj.CoreCompileInputs.cache
+C:\PERSONALES\LEON\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 5\Ejercicio N°1\obj\Debug\Ejercicio N°1.exe
+C:\PERSONALES\LEON\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 5\Ejercicio N°1\obj\Debug\Ejercicio N°1.pdb

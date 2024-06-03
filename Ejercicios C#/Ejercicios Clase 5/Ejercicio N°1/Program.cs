@@ -16,11 +16,10 @@ namespace Ejercicio_N_1
             Random random = new Random();
             
             int[] matrizEnteros = new int[20];
-            int[] matrizPositiva = new int[20];
-            int[] matrizNegativa = new int[20];
+
             int numero;
 
-            for (int i = 0; i < 20; i++)
+            for (int i = 0; i < matrizEnteros.Length; i++)
             {
                 do
                 {
@@ -31,27 +30,28 @@ namespace Ejercicio_N_1
                 matrizEnteros[i] = numero;
             }
 
-            Console.WriteLine("\nVector como fue creado:\n");
+            Console.WriteLine("\nVector como fue ingresado:\n");
             foreach (int integranteMatriz in matrizEnteros)
             {
                 Console.WriteLine(integranteMatriz);
             }
 
             Console.WriteLine("\nPositivos ordenados decrecientemente:\n");
-            /*
-            for (int i, i )
+            Array.Sort(matrizEnteros, (x, y) => y.CompareTo(x));
+
+            foreach (int integranteMatriz in matrizEnteros)
             {
                 if (integranteMatriz > 0 )
                 {
                     
                     Console.WriteLine(integranteMatriz);
-                }
-                
+                }  
             }
-            */
+            
 
             Console.WriteLine("\nNegativos ordenados crecientemente:\n");
-            /*
+            Array.Sort(matrizEnteros);
+            
             foreach (int integranteMatriz in matrizEnteros)
             {
                 if (integranteMatriz < 0)
@@ -61,7 +61,7 @@ namespace Ejercicio_N_1
                 }
 
             }
-            */
+            
             Console.ReadKey();
         }
     }

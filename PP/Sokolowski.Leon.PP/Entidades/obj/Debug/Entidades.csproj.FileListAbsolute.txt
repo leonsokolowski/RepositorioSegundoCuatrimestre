@@ -1,0 +1,12 @@
+C:\PERSONALES\LEON\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACIÓN Y LABORATORIO 2\PP\Sokolowski.Leon.PP\Entidades\bin\Debug\Entidades.dll
+C:\PERSONALES\LEON\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACIÓN Y LABORATORIO 2\PP\Sokolowski.Leon.PP\Entidades\bin\Debug\Entidades.pdb
+C:\PERSONALES\LEON\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACIÓN Y LABORATORIO 2\PP\Sokolowski.Leon.PP\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\PERSONALES\LEON\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACIÓN Y LABORATORIO 2\PP\Sokolowski.Leon.PP\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\PERSONALES\LEON\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACIÓN Y LABORATORIO 2\PP\Sokolowski.Leon.PP\Entidades\obj\Debug\Entidades.dll
+C:\PERSONALES\LEON\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACIÓN Y LABORATORIO 2\PP\Sokolowski.Leon.PP\Entidades\obj\Debug\Entidades.pdb
+E:\LEÓN\FACULTAD\Segundo Cuatri\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\PP\Sokolowski.Leon.PP\Entidades\bin\Debug\Entidades.dll
+E:\LEÓN\FACULTAD\Segundo Cuatri\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\PP\Sokolowski.Leon.PP\Entidades\bin\Debug\Entidades.pdb
+E:\LEÓN\FACULTAD\Segundo Cuatri\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\PP\Sokolowski.Leon.PP\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+E:\LEÓN\FACULTAD\Segundo Cuatri\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\PP\Sokolowski.Leon.PP\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\LEÓN\FACULTAD\Segundo Cuatri\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\PP\Sokolowski.Leon.PP\Entidades\obj\Debug\Entidades.dll
+E:\LEÓN\FACULTAD\Segundo Cuatri\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\PP\Sokolowski.Leon.PP\Entidades\obj\Debug\Entidades.pdb

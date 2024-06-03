@@ -1,0 +1,6 @@
+C:\PERSONALES\LEON\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 4\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.dll
+C:\PERSONALES\LEON\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 4\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.pdb
+C:\PERSONALES\LEON\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 4\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.csproj.AssemblyReference.cache
+C:\PERSONALES\LEON\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 4\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.csproj.CoreCompileInputs.cache
+C:\PERSONALES\LEON\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 4\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.dll
+C:\PERSONALES\LEON\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACIÓN Y LABORATORIO 2\RepositorioSegundoCuatrimestre\Ejercicios C#\Ejercicios Clase 4\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.pdb
