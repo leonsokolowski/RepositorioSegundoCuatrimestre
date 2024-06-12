@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{215EB1F1-3FBB-43C7-8899-F868DC86AEA7}|Biblioteca1\\Biblioteca1.csproj|c:\\personales\\leon\\facultad\\segundo cuatrimestre\\programaci\u00F3n y laboratorio 2\\repositoriosegundocuatrimestre\\ejercicios c#\\ejercicios clase 15\\biblioteca1\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215EB1F1-3FBB-43C7-8899-F868DC86AEA7}|Biblioteca1\\Biblioteca1.csproj|solutionrelative:biblioteca1\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF27945-EA48-4481-AACE-5B4E84D87584}|ExcepcionesTest\\ExcepcionesTest.csproj|c:\\personales\\leon\\facultad\\segundo cuatrimestre\\programaci\u00F3n y laboratorio 2\\repositoriosegundocuatrimestre\\ejercicios c#\\ejercicios clase 15\\excepcionestest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF27945-EA48-4481-AACE-5B4E84D87584}|ExcepcionesTest\\ExcepcionesTest.csproj|solutionrelative:excepcionestest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74EF79C3-BFE8-4013-A593-CFF6413A64C4}|Clase\\Clase.csproj|C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 15\\clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74EF79C3-BFE8-4013-A593-CFF6413A64C4}|Clase\\Clase.csproj|solutionrelative:clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 15\\Biblioteca1\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Biblioteca1\\Calculadora.cs",
+              "ToolTip": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 15\\Biblioteca1\\Calculadora.cs",
+              "RelativeToolTip": "Biblioteca1\\Calculadora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T00:43:24.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 15\\ExcepcionesTest\\Program.cs",
+              "RelativeDocumentMoniker": "ExcepcionesTest\\Program.cs",
+              "ToolTip": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 15\\ExcepcionesTest\\Program.cs",
+              "RelativeToolTip": "ExcepcionesTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T00:40:58.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 15\\Clase\\Program.cs",
+              "RelativeDocumentMoniker": "Clase\\Program.cs",
+              "ToolTip": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicios Clase 15\\Clase\\Program.cs",
+              "RelativeToolTip": "Clase\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwD4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T23:21:41.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
