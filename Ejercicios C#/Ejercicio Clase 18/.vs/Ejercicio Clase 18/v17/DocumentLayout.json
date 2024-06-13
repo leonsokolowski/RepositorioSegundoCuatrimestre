@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicio Clase 18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{624B0935-F89A-4B65-BF39-449AABE2CE4E}|Entidades\\Entidades.csproj|c:\\personales\\leon\\facultad\\segundo cuatrimestre\\programaci\u00F3n y laboratorio 2\\repositoriosegundocuatrimestre\\ejercicios c#\\ejercicio clase 18\\entidades\\inotificacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624B0935-F89A-4B65-BF39-449AABE2CE4E}|Entidades\\Entidades.csproj|solutionrelative:entidades\\inotificacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624B0935-F89A-4B65-BF39-449AABE2CE4E}|Entidades\\Entidades.csproj|c:\\personales\\leon\\facultad\\segundo cuatrimestre\\programaci\u00F3n y laboratorio 2\\repositoriosegundocuatrimestre\\ejercicios c#\\ejercicio clase 18\\entidades\\notificationeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624B0935-F89A-4B65-BF39-449AABE2CE4E}|Entidades\\Entidades.csproj|solutionrelative:entidades\\notificationeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624B0935-F89A-4B65-BF39-449AABE2CE4E}|Entidades\\Entidades.csproj|c:\\personales\\leon\\facultad\\segundo cuatrimestre\\programaci\u00F3n y laboratorio 2\\repositoriosegundocuatrimestre\\ejercicios c#\\ejercicio clase 18\\entidades\\emailnotificacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624B0935-F89A-4B65-BF39-449AABE2CE4E}|Entidades\\Entidades.csproj|solutionrelative:entidades\\emailnotificacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624B0935-F89A-4B65-BF39-449AABE2CE4E}|Entidades\\Entidades.csproj|c:\\personales\\leon\\facultad\\segundo cuatrimestre\\programaci\u00F3n y laboratorio 2\\repositoriosegundocuatrimestre\\ejercicios c#\\ejercicio clase 18\\entidades\\smsnotificacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624B0935-F89A-4B65-BF39-449AABE2CE4E}|Entidades\\Entidades.csproj|solutionrelative:entidades\\smsnotificacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624B0935-F89A-4B65-BF39-449AABE2CE4E}|Entidades\\Entidades.csproj|c:\\personales\\leon\\facultad\\segundo cuatrimestre\\programaci\u00F3n y laboratorio 2\\repositoriosegundocuatrimestre\\ejercicios c#\\ejercicio clase 18\\entidades\\notificacionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624B0935-F89A-4B65-BF39-449AABE2CE4E}|Entidades\\Entidades.csproj|solutionrelative:entidades\\notificacionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDAC03C-9103-46CD-B5DC-8F41072E7237}|Test\\Test.csproj|c:\\personales\\leon\\facultad\\segundo cuatrimestre\\programaci\u00F3n y laboratorio 2\\repositoriosegundocuatrimestre\\ejercicios c#\\ejercicio clase 18\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDAC03C-9103-46CD-B5DC-8F41072E7237}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicio Clase 18\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicio Clase 18\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T00:53:52.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotificacionManager.cs",
+              "DocumentMoniker": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicio Clase 18\\Entidades\\NotificacionManager.cs",
+              "RelativeDocumentMoniker": "Entidades\\NotificacionManager.cs",
+              "ToolTip": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicio Clase 18\\Entidades\\NotificacionManager.cs",
+              "RelativeToolTip": "Entidades\\NotificacionManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T00:46:41.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SmsNotificacionService.cs",
+              "DocumentMoniker": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicio Clase 18\\Entidades\\SmsNotificacionService.cs",
+              "RelativeDocumentMoniker": "Entidades\\SmsNotificacionService.cs",
+              "ToolTip": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicio Clase 18\\Entidades\\SmsNotificacionService.cs",
+              "RelativeToolTip": "Entidades\\SmsNotificacionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T00:44:39.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailNotificacionService.cs",
+              "DocumentMoniker": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicio Clase 18\\Entidades\\EmailNotificacionService.cs",
+              "RelativeDocumentMoniker": "Entidades\\EmailNotificacionService.cs",
+              "ToolTip": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicio Clase 18\\Entidades\\EmailNotificacionService.cs",
+              "RelativeToolTip": "Entidades\\EmailNotificacionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T00:33:44.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificationEventArgs.cs",
+              "DocumentMoniker": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicio Clase 18\\Entidades\\NotificationEventArgs.cs",
+              "RelativeDocumentMoniker": "Entidades\\NotificationEventArgs.cs",
+              "ToolTip": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicio Clase 18\\Entidades\\NotificationEventArgs.cs",
+              "RelativeToolTip": "Entidades\\NotificationEventArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T00:30:23.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InotificacionService.cs",
+              "DocumentMoniker": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicio Clase 18\\Entidades\\InotificacionService.cs",
+              "RelativeDocumentMoniker": "Entidades\\InotificacionService.cs",
+              "ToolTip": "C:\\PERSONALES\\LEON\\FACULTAD\\SEGUNDO CUATRIMESTRE\\PROGRAMACI\u00D3N Y LABORATORIO 2\\RepositorioSegundoCuatrimestre\\Ejercicios C#\\Ejercicio Clase 18\\Entidades\\InotificacionService.cs",
+              "RelativeToolTip": "Entidades\\InotificacionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T00:20:45.479Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
